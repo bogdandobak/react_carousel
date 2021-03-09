@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss","Carousel.scss"],"names":[],"mappings":"AAAA,KACE,YAAa,CCDf,UACE,eAAgB,CACjB,GAGC,oBAAa,CAAb,YAAa,CACb,eAAgB,CAChB,SAAU","file":"main.b08485a9.chunk.css","sourcesContent":[".App {\n  width: 1300px;\n}\n",".Carousel {\n  overflow: hidden;\n}\n\nul {\n  display: flex;\n  list-style: none;\n  padding: 0;\n}\n"]}
